@@ -1,0 +1,6 @@
+name: ditme kiwi project
+version: '${project.version}'
+main: ditmekiwi.doubledrops.main
+api-version: 1.18
+authors: [ ditmekiwi ]
+description: drop more diamonds

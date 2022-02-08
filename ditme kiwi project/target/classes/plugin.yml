@@ -1,0 +1,6 @@
+name: ditme kiwi project
+version: '1.0-SNAPSHOT'
+main: ditmekiwi.doubledrops.main
+api-version: 1.18
+authors: [ ditmekiwi ]
+description: drop more diamonds
